@@ -1,4 +1,3 @@
-logsBucket: gs://lab2-495503-cloudbuild-logs
 steps:
   - name: 'gcr.io/cloud-builders/docker'
     args:
